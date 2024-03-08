@@ -1,7 +1,6 @@
 return {
-  {
-    'github/copilot.vim',
-  },
+  { 'github/copilot.vim' },
+  { 'gpanders/editorconfig.nvim' },
   {
     'mbbill/undotree',
 
