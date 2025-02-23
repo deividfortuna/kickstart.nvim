@@ -676,7 +676,7 @@ require('lazy').setup({
         -- ts_ls = {},
         --
 
-        tsserver = {},
+        ts_ls = {},
         gopls = {},
         csharp_ls = {},
         terraformls = {},
